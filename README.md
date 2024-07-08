@@ -1,19 +1,4 @@
-**Description**
+I am a second-year Computer Science student at TKM College of Engineering, passionate about software development and artificial intelligence. With a strong foundation in programming languages such as Python, Java, and C++, I am eager to apply my skills to real-world projects and gain hands-on experience in the tech industry.
 
-The notebook file demonstrates how to implement linear regression using a Advertisement dataset. 
-The steps include loading the data, preprocessing, training the model, and predicting values.
+I am particularly interested in exploring the fields of machine learning and data science, as I believe they hold the key to transformative innovations in technology.
 
-The notebook requires the following Python packages:
-  - pandas
-  - numpy
-  - scikit-learn
-  - matplotlib
-
-**Modify Data Path if Necessary:**
-
-  If your data is saved in a different location, update the path in the notebook code where the data is loaded.
-
-
-The notebook includes code to predict values using the trained linear regression model.
-
->Ensure to run all cells to see the predictions.
